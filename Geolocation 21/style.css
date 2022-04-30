@@ -1,0 +1,25 @@
+html {
+  font-size: 100px;
+}
+  
+body {
+  margin: 0;
+  font-family: sans-serif;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #282828;
+  background-size: 16px 16px;
+  background-attachment: fixed;
+}
+
+
+h1 {
+  color: white;
+  font-weight: 100;
+  font-size: 60px;
+  display: flex;
+  align-items: center;
+}
